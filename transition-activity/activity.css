@@ -1,1 +1,8 @@
-
+.transform {
+    transition-duration: 4s;
+  }
+  
+  .Transform:hover {
+    background-color: rgb(15, 166, 146);
+    color: ghostwhite;
+  }
